@@ -1,3 +1,3 @@
 # Dax Repo
 
-This is the `stable` branch, it contains stable & tested versions of software.
+This is the `chaotic` branch, it contains the bleeding edge releases.
